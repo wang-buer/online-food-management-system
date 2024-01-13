@@ -2,9 +2,9 @@
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**美食1** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**美食**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -34,29 +34,21 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031647208.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208031647208.jpg)
 
 ### 4.2前端 模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031648965.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202208031648965.jpg)
 
-![美食教程详情页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031648996.jpg)
+![美食教程详情页](https://www.codeshop.fun/Typora-Images/202208031648996.jpg)
 
-![用户-发布美食教程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031648401.jpg)
+![用户-发布美食教程](https://www.codeshop.fun/Typora-Images/202208031648401.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031648172.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208031648172.jpg)
 
-![管理员-美食分类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031648101.jpg)
+![管理员-美食分类管理](https://www.codeshop.fun/Typora-Images/202208031648101.jpg)
 
-![管理员-美食信息审核](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208031648683.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**美食1** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-美食信息审核](https://www.codeshop.fun/Typora-Images/202208031648683.jpg)
 
